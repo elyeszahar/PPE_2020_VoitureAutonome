@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/etsi_msgs_generate_messages_nodejs"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/VehicleRole.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/VehicleWidth.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/ExteriorLights.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/ActionID.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/YawRate.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/DENM.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/RelevanceTrafficDirection.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/CurvatureCalculationMode.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/Curvature.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/CAM.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/ItsPduHeader.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/LongitudinalAcceleration.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/BasicVehicleContainerLowFrequency.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/PathPoint.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/DriveDirection.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/StationType.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/EventPoint.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/DeltaReferencePosition.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/RelevanceDistance.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/CauseCode.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/VehicleLength.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/PathHistory.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/LocationContainer.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/SituationContainer.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/AccelerationControl.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/PathDeltaTime.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/BasicVehicleContainerHighFrequency.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/Speed.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/Altitude.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/Heading.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/ReferencePosition.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/ManagementContainer.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/PositionConfidenceEllipse.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/InformationQuality.js"
+  "/home/ppe2021/catkin_ws/devel/share/gennodejs/ros/etsi_msgs/msg/SPAT.js"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/etsi_msgs_generate_messages_nodejs.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

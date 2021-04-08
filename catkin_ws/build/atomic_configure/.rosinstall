@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ppe2021/catkin_ws/devel/setup.sh

@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/etsi_msgs_generate_messages_cpp"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/VehicleRole.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/VehicleWidth.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/ExteriorLights.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/ActionID.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/YawRate.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/DENM.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/RelevanceTrafficDirection.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/CurvatureCalculationMode.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/Curvature.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/CAM.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/ItsPduHeader.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/LongitudinalAcceleration.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/BasicVehicleContainerLowFrequency.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/PathPoint.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/DriveDirection.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/StationType.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/EventPoint.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/DeltaReferencePosition.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/RelevanceDistance.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/CauseCode.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/VehicleLength.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/PathHistory.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/LocationContainer.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/SituationContainer.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/AccelerationControl.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/PathDeltaTime.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/BasicVehicleContainerHighFrequency.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/Speed.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/Altitude.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/Heading.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/ReferencePosition.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/ManagementContainer.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/PositionConfidenceEllipse.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/InformationQuality.h"
+  "/home/ppe2021/catkin_ws/devel/include/etsi_msgs/SPAT.h"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/etsi_msgs_generate_messages_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/etsi_msgs_generate_messages_lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/VehicleRole.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/VehicleWidth.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/ExteriorLights.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/ActionID.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/YawRate.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/DENM.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/RelevanceTrafficDirection.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/CurvatureCalculationMode.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/Curvature.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/CAM.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/ItsPduHeader.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/LongitudinalAcceleration.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/BasicVehicleContainerLowFrequency.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/PathPoint.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/DriveDirection.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/StationType.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/EventPoint.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/DeltaReferencePosition.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/RelevanceDistance.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/CauseCode.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/VehicleLength.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/PathHistory.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/LocationContainer.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/SituationContainer.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/AccelerationControl.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/PathDeltaTime.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/BasicVehicleContainerHighFrequency.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/Speed.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/Altitude.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/Heading.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/ReferencePosition.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/ManagementContainer.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/PositionConfidenceEllipse.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/InformationQuality.lisp"
+  "/home/ppe2021/catkin_ws/devel/share/common-lisp/ros/etsi_msgs/msg/SPAT.lisp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/etsi_msgs_generate_messages_lisp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

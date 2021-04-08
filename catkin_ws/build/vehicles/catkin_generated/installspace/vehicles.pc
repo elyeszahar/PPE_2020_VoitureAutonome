@@ -1,0 +1,8 @@
+prefix=/home/ppe2021/catkin_ws/install
+
+Name: vehicles
+Description: Description of vehicles
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy

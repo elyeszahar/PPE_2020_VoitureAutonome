@@ -1,0 +1,8 @@
+prefix=/home/ppe2021/catkin_ws/install
+
+Name: simu_msgs
+Description: Description of simu_msgs
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy message_runtime
